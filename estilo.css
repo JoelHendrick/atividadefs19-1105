@@ -50,18 +50,18 @@ body{
     position: absolute;
     bottom: 30px;
     right: 20px;
-    /* animation: underline 2s; */
+    animation: underline 2s;
 }
 
 marquee {
     height: 100vh;
 }
 
-/* @keyframes underline {
+@keyframes underline {
     from{
         width: 0;       
     }
     to{
         width: 24%;
     }
-} */
+}
